@@ -1,4 +1,4 @@
-# Diana Pedraza
+# Diana K Pedraza
 
 **Economist and data scientist.** I build decision systems: the layer that turns models and business rules into a concrete answer about which customer gets which action, and whether that action should happen at all.
 
